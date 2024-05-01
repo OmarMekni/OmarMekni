@@ -2,7 +2,8 @@
 <br/>
 
 ## 🚀 À propos 
-Je suis Omar Mekni, analyste programmeur à la recherche de nouveaux défis dans le développement, je suis un professionnel passionné par la création de solutions innovantes et la gestion opérationnelle. Ma spécialisation en programmation orientée objet et mon expertise dans le développement d'applications web tant en front-end qu'en back-end me permettent d'exceller dans des environnements sous pression, tout en dirigeant des équipes diversifiées. Engagé dans l'assurance qualité et adepte de la méthodologie agile, je suis prêt à apporter une approche analytique et à promouvoir une amélioration continue des processus. Lauréat de la Bourse CAE en Technologies de l'Information et Intelligence Artificielle, je m'engage à maintenir l'excellence dans tous les aspects du développement logiciel.
+Je suis Omar Mekni, analyste programmeur à la recherche de nouveaux défis dans le développement. 
+Ma spécialisation en programmation orientée objet et mon expertise dans le développement d'applications web tant en front-end qu'en back-end me permettent d'exceller dans des environnements sous pression, tout en dirigeant des équipes diversifiées. Engagé dans l'assurance qualité et adepte de la méthodologie agile, je suis prêt à apporter une approche analytique et à promouvoir une amélioration continue des processus. Lauréat de la Bourse CAE en Technologies de l'Information et Intelligence Artificielle, je m'engage à maintenir l'excellence dans tous les aspects du développement logiciel.
 
 ### Où me trouver ?
 👉 Rejoins mon réseau : [LinkedIn](https://www.linkedin.com/in/omar-mekni/)
