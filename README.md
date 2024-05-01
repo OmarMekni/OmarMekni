@@ -1,9 +1,21 @@
 # <img align="left" src="https://github.com/OmarMekni/OmarMekni/assets/112511422/b45bd91d-a455-4215-998a-eec59fdd51e1?raw=true" width="100" height="100">  Bienvenue sur mon profil ! 👋
 <br/>
 
-## 🚀 À propos 
+## 🚀 À propos  
 Je suis Omar Mekni, analyste programmeur à la recherche de nouveaux défis dans le développement. 
-Ma spécialisation en programmation orientée objet et mon expertise dans le développement d'applications web tant en front-end qu'en back-end me permettent d'exceller dans des environnements sous pression, tout en dirigeant des équipes diversifiées. Engagé dans l'assurance qualité et adepte de la méthodologie agile, je suis prêt à apporter une approche analytique et à promouvoir une amélioration continue des processus. Lauréat de la Bourse CAE en Technologies de l'Information et Intelligence Artificielle, je m'engage à maintenir l'excellence dans tous les aspects du développement logiciel.
+
+Ma spécialisation en programmation orientée objet et mon expertise dans le développement d'applications web tant en front-end
+qu'en back-end me permettent d'exceller dans des environnements sous pression, tout en dirigeant des équipes  
+diversifiées. 
+
+Engagé dans l'assurance qualité et adepte de la méthodologie agile, je suis prêt à apporter une approche analytique  
+et à promouvoir une amélioration continue des processus. 
+
+Lauréat de la Bourse CAE Inc. en Technologies de  
+l'Information et Intelligence Artificielle, je m'engage à maintenir l'excellence dans tous les aspects du développement logiciel.
+
+
+
 
 ### Où me trouver ?
 👉 Rejoins mon réseau : [LinkedIn](https://www.linkedin.com/in/omar-mekni/)
