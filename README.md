@@ -5,8 +5,7 @@
 Je suis Omar Mekni, analyste programmeur à la recherche de nouveaux défis dans le développement. 
 
 Ma spécialisation en programmation orientée objet et mon expertise dans le développement d'applications web tant en front-end
-qu'en back-end me permettent d'exceller dans des environnements sous pression, tout en dirigeant des équipes  
-diversifiées. 
+qu'en back-end me permettent d'exceller dans des environnements sous pression, tout en dirigeant des équipes diversifiées. 
 
 Engagé dans l'assurance qualité et adepte de la méthodologie agile, je suis prêt à apporter une approche analytique  
 et à promouvoir une amélioration continue des processus. 
